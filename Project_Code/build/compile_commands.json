@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/PROJECT/Project_Code/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -isystem C:/opencv/build/include -g -o CMakeFiles\\DisplayImage.dir\\DisplayImage.cpp.obj -c D:\\PROJECT\\Project_Code\\DisplayImage.cpp",
+  "file": "D:\\PROJECT\\Project_Code\\DisplayImage.cpp",
+  "output": "CMakeFiles\\DisplayImage.dir\\DisplayImage.cpp.obj"
+}
+]
