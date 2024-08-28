@@ -3,8 +3,11 @@ FOR YOU TO RUN THIS CODE YOU NEED TO HAVE OPENCV AND CMAKE INSTALLED ON YOUR SYS
 THEN YOU NEED TO FOLLOW THE GIVEN STEPS IN POWERSHELL- 
 
 D:\PROJECT\Project_Code\build\Release> .\DisplayImage.exe
+
 Enter the input image address: ./image.png
+
 Enter the Number of colors you want to take in image: 70
+
 Enter the number of steps you want to train the model: 21
 
 THESE STEPS WILL HELP RUNNING THE CODE AND YOU WILL GET A COMPRESSED IMAGE IN SAME RELEASE FOLDER.
